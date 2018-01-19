@@ -7,9 +7,10 @@ theme = "black-and-light"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
+publishDir = "docs"
 
 [params]
-  sitename = "My Site"
+  sitename = "My Site s"
 
 [[menu.main]]
     name = "About"
